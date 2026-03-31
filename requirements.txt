@@ -1,0 +1,8 @@
+fastf1
+pandas
+numpy
+requests
+scipy
+scikit-learn
+matplotlib
+seaborn
