@@ -2,3 +2,8 @@
 __pycache__/
 .DS_Store
 f1_cache/
+
+# Word lock files
+~$*.docx
+# Assignment guidelines (not part of the project)
+DSA210_Spring2026_ProjectGuidelines*.docx
